@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("fix test");
 
         System.out.println("我现在用fix的");
+        System.out.println("我现在又想要别人的了！");
     }
 }
