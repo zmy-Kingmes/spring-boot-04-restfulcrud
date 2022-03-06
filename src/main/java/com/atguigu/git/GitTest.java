@@ -7,6 +7,8 @@ package com.atguigu.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
-        System.out.println("git 2 Now");
+        System.out.println("fix test");
+
+        System.out.println("我现在用fix的");
     }
 }
