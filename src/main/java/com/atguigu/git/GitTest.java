@@ -17,5 +17,7 @@ public class GitTest {
         System.out.println("我现在才合并进master！");
 
         System.out.println("push test");
+        
+        System.out.println("pull test");
     }
 }
