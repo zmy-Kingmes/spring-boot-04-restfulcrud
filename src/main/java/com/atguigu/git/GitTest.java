@@ -15,5 +15,7 @@ public class GitTest {
 
         System.out.println("我现在想利用这个分支合并进master！");
         System.out.println("我现在才合并进master！");
+
+        System.out.println("push test");
     }
 }
