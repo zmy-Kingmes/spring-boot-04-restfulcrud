@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("fix test");
 
         System.out.println("我现在用fix的");
+
+        System.out.println("我现在想利用这个分支合并进master！");
     }
 }
